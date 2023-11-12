@@ -1,11 +1,10 @@
 PROJET 2048
 
-Grille crée 
+Recuperer le pseudo qui a été ajouté 
 
-Framework trouvée pour la grille (PHASER)
+Le stocker dans le serveur 
 
-Tuiles ajoutées 
+Faire un lien entre pseudo et score
 
-Déplacements ajoutés sur PC
+stocker le score qui correspond au bon pseudo
 
-Déplacements fonctionnent sur téléphone 
