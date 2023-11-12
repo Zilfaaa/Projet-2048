@@ -1,3 +1,5 @@
 PROJET 2048
 
-Grille crée (Signée)
+Grille crée 
+
+Framework trouvée pour la grille (PHASER)
