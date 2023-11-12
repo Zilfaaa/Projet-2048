@@ -1,11 +1,7 @@
 PROJET 2048
 
-Grille crée 
+Demander au joueur de rentrer son pseudo
 
-Framework trouvée pour la grille (PHASER)
+Pseudo ajouté
 
-Tuiles ajoutées 
 
-Déplacements ajoutés sur PC
-
-Déplacements fonctionnent sur téléphone 
