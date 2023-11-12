@@ -6,4 +6,6 @@ Framework trouvée pour la grille (PHASER)
 
 Tuiles ajoutées 
 
-Déplacement ajouté
+Déplacements ajoutés sur PC
+
+Déplacements fonctionnent sur téléphone 
