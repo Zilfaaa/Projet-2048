@@ -1,11 +1,10 @@
 PROJET 2048
 
-Grille crée 
+Faire l'appel d'un pseudo
 
-Framework trouvée pour la grille (PHASER)
+Afficher le score qui correspond au pseudo
 
-Tuiles ajoutées 
+Faire un classement du score le plus grand au plus petit
 
-Déplacements ajoutés sur PC
+Afficher le classement 
 
-Déplacements fonctionnent sur téléphone 
