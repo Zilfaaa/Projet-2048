@@ -3,3 +3,5 @@ PROJET 2048
 Grille crée 
 
 Framework trouvée pour la grille (PHASER)
+
+Tuiles ajoutées 
