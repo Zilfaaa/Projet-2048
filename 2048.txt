@@ -9,3 +9,5 @@ Tuiles ajoutées
 Déplacements ajoutés sur PC
 
 Déplacements fonctionnent sur téléphone 
+
+addition du nombre de tuiles
